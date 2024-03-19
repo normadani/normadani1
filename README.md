@@ -1,2 +1,2 @@
-# normadani1
-tugas-pengembangan-web-koputer
+# normadani
+tugas-pengembangan-web-komputer
